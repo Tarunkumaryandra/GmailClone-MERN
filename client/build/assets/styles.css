@@ -1,0 +1,9 @@
+.StyledAppBar{
+    background: #F5F5F5;
+    box-shadow: none;
+}
+
+.App{
+    margin-top: 1000px;
+    margin: 100px;
+}
